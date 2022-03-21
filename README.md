@@ -22,7 +22,7 @@
 
     * Regla 11. El elemento `iframe` tendra un ancho `width` de `100%` y una altura `height` de `500px`.
 
-    * Regla 12. Añadiremos otro medira queri. Dentro del media queri los elementos con identificador (id) `main` tendra un relleno de `1%` a derecha y a izquierda y un `font-size` con un valor de `40px`. Los elementos con identificador (id) `main p` tendra un `font-size` con un valor de `15px`. Y los elementos con identificador (id) `main h1` tendra un `font-size` con un valor de `35px`.
+    * Regla 12. Añadiremos otro media queri. Dentro del media queri los elementos con identificador (id) `main` tendra un relleno de `1%` a derecha y a izquierda y un `font-size` con un valor de `40px`. Los elementos con identificador (id) `main p` tendra un `font-size` con un valor de `15px`. Y los elementos con identificador (id) `main h1` tendra un `font-size` con un valor de `35px`.
 
     * Regla 13. Los elementos con clase `imag` tendra un ancho `width` de `90%` y estara alineado al centro.
 
